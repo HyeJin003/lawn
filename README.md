@@ -1,5 +1,3 @@
 # lawn
-<<<<<<< HEAD
-=======
-fdfsdf 
->>>>>>> origin/main
+fdfsdf
+dddd
